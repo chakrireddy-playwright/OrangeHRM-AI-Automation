@@ -1,0 +1,12 @@
+Generate all Login Module test cases.
+
+Include:
+
+Positive
+Negative
+Boundary
+Validation
+Security
+
+Application:
+OrangeHRM
